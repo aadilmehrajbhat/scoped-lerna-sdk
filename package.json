@@ -3,6 +3,9 @@
   "scripts": {
     "publish": "lerna run tsc && lerna publish"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@types/node": "^13.11.1",
     "lerna": "^3.20.2",
