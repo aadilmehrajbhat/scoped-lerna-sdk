@@ -1,0 +1,20 @@
+{
+  "name": "@scoped-lerna-sdk/utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Aadil Mehraj <aadilmehraj76@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
